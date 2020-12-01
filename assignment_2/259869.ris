@@ -1,0 +1,20 @@
+TY  - JOUR
+A2  - Khabashesku, Valery
+AU  - Yao, Fenghui
+AU  - Zein-Sabatto, Mohamed Saleh
+AU  - Shao, Guifeng
+AU  - Bodruzzaman, Mohammad
+AU  - Malkani, Mohan
+PY  - 2014
+DA  - 2014/02/09
+TI  - Nanosensor Data Processor in Quantum-Dot Cellular Automata
+SP  - 259869
+VL  - 2014
+AB  - Quantum-dot cellular automata (QCA) is an attractive nanotechnology with the potential alterative to CMOS technology. QCA provides an interesting paradigm for faster speed, smaller size, and lower power consumption in comparison to transistor-based technology, in both communication and computation. This paper describes the design of a 4-bit multifunction nanosensor data processor (NSDP). The functions of NSDP contain (i) sending the preprocessed raw data to high-level processor, (ii) counting the number of the active majority gates, and (iii) generating the approximate sigmoid function. The whole system is designed and simulated with several different input data.
+SN  - 1687-9503
+UR  - https://doi.org/10.1155/2014/259869
+DO  - 10.1155/2014/259869
+JF  - Journal of Nanotechnology
+PB  - Hindawi Publishing Corporation
+KW  - 
+ER  - 
